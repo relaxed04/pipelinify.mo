@@ -1,1 +1,9 @@
-.dfx
+# Dependency directories
+.dfx/
+.vessel/
+
+#Editor
+.vscode/
+
+#wasm
+*.wasm
